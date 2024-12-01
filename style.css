@@ -1,0 +1,211 @@
+body{
+    margin: 0px;
+}
+#header{
+height: 50vh;
+    background-color: rgb(41, 41, 41);
+}
+#logo{
+    width: 150px;
+    height: 75px;
+}
+#ul{
+    list-style: none;
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    margin-left: 300px;
+   
+}
+
+#ul li{
+
+
+    padding: 13px;
+}
+.navbar{
+    display: flex;
+    width: 60vw;
+    margin: auto;
+}
+#search img{
+    width: 25px;
+    height: 20px;
+}
+#blog{
+width: 67px;
+
+}
+ul :hover{
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
+h1{
+    color: white;
+}
+#innavbar{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+#profile-img{
+    height:35px;
+    width: 35px;
+    border-radius: 50%;
+}
+#name{
+    display: inline-block;
+    color: rgb(134, 127, 127);
+    font-size: 15px;
+    
+}
+.profilediv{
+display: flex;
+align-items: center;
+
+}
+#clock{
+    width: 20px;
+    height: 20px;
+    margin-left: 30px;
+    color: white;
+    
+    
+    }
+#clock2{
+width: 20px;
+height: 20px;
+margin-left: 30px;
+color: white;
+margin-bottom: -5px;
+
+}
+.invert{
+    -webkit-filter: invert(100%);
+}
+
+#calender{
+    width: 22px;
+    height: 25px;
+    margin-left: 30px;
+    color: white;
+    
+}
+
+#calender2{
+    width: 22px;
+    height: 25px;
+    margin-left: 30px;
+    color: white;
+    margin-bottom: -6px;
+}
+#center{
+      width: 60vw;
+      margin: auto;
+      padding-top: 35px;
+
+}
+#cenimg{
+    margin-left: 30px;
+    width: 55vw;
+    height: 500px;
+}
+#cenh1{
+
+    color: black;
+    font-size: 35px;
+}
+.heading11{
+    color: black;
+}
+#border-para{
+         border-left: 3px solid black;  
+         width: 650px;  
+         margin: auto;
+
+}
+#border-para p{
+    padding-left: 20px;
+    padding: 5px 5px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+#scnd-ul{
+    display: inline;
+    display: flex;
+width: 50%;
+    list-style: none;
+    padding: 5px;
+}
+#scnd-ul li a{
+    text-decoration: none;
+    padding: 0px 5px 0px 5px;
+    color: black;
+    padding-bottom: 10px;
+}
+
+ul li :hover{
+   border-bottom:2px solid  black ;
+
+}
+#img-ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+   
+    width: 50%;
+ 
+    
+   
+  
+}
+#img-ul img{
+width: 30px;
+height: 30px;
+padding: 0px 10px 0px 10px;
+border: 2px solid white;
+
+}
+footer{
+    background-color: rgb(41, 41, 41);
+}
+
+footer h1{
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+footer h1 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.div23{
+        width: 60%;
+        margin: auto; 
+
+display: flex;
+
+justify-content: center;
+
+}
+#indiv1{
+width: 33%;
+
+}
+
+.imgdiv2{
+width: 100px;
+height: 50px;
+
+}
+.txtimg{
+    display: inline;
+    width: 300px;
+    float: right;
+    color: white;
+    margin-left: 5px;
+   
+}
+#txtdiv11{
+    color: white;
+}
